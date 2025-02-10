@@ -21,7 +21,6 @@
 
 ### 📫 How to reach me:  
 - GitHub: https://github.com/Igor9985563
-- Email: formywork998@gmail.com  
 
 ---
 
