@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I'm Igor!  
+**💻 Cybersecurity Enthusiast | 🐍 Python & C# Developer | 🎨 3D Artist in Blender | 🎵 Phonk Music Maker**  
 
-<!--
-**Igor9985563/Igor9985563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 My Interests and Skills:  
+- **Cybersecurity** — Exploring SOC processes, network security, and ethical hacking.  
+- **Programming** — Passionate about Python and C#.  
+- **3D Modeling** — Creating projects in **Blender**.  
+- **Networking** — Learning Cisco technologies and configurations.  
+- **Physics & Tech Books** — Avid reader, always expanding my knowledge.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 My Goals:  
+- Dive deeper into cybersecurity and network engineering.  
+- Build creative projects using Python and C#.  
+- Collaborate on open-source security tools and tech innovations.  
+
+---
+
+### 📫 How to reach me:  
+- GitHub: [Your GitHub Profile Link]  
+- Email: [Your Email]  
+
+---
+
+> *“The only way to do great work is to love what you do.” – Steve Jobs*  
