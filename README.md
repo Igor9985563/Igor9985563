@@ -20,8 +20,8 @@
 ---
 
 ### 📫 How to reach me:  
-- GitHub: [Your GitHub Profile Link]  
-- Email: [Your Email]  
+- GitHub: https://github.com/Igor9985563
+- Email: formywork998@gmail.com  
 
 ---
 
