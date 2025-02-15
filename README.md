@@ -4,14 +4,13 @@
 ---
 
 ## 📜 About Me  
-Igor is an inquisitive and driven 18-year-old with a passion for cybersecurity, programming, and creative digital projects. He explores Python, C#, and Blender, constantly expanding his skills and knowledge. Though he has not yet gained formal work experience, Igor is dedicated to self-improvement, creating phonk tracks, and reading books on physics and Cisco networking technologies. His analytical mind and problem-solving nature reflect his desire to master complex systems, embodying a balance of technical precision and creative exploration.  
+An ambitious 18-year-old passionate about Cybersecurity, Python, and C Sharp. He occasionally composes Phonk music and enjoys reading books on physics and Cisco networking. Constantly expanding his knowledge, he strives to grow in technology and programming, aiming to develop in network administration.
 
 ---
 
 ## 🛠 Skills  
 - **Experience enhancement:** ★★★★★★  
 - **Adaptability:** ★★★★★  
-- **Blender:** ★★★  
 - **FL Studio:** ★★★★★  
 - **Programming Languages:** ★★★★☆  
 - **Cisco Networking:** ★★★★★  
@@ -49,8 +48,8 @@ Igor is an inquisitive and driven 18-year-old with a passion for cybersecurity, 
 ## 💼 Experience  
 - **2021:** Professional Step Academy — IT Essentials  
   *Basic network administration.*  
-- **2022:** Professional Step Academy — CCNAv2, CCNAv3  
-  *Working with Cisco equipment rack: Switch, Router.*  
+- **2022:** Professional Step Academy — CCNAv1, CCNAv2, CCNAv3  
+  *Working with Cisco equipment rack: Switchv2-3, Router, ASA*  
 - **2023:** Professional Step Academy — PCAP, Ansible  
   *Automating the configuration of Ansible network equipment.*  
 
