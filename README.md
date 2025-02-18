@@ -1,65 +1,78 @@
-# 👋 Igor's GitHub Profile  
-**💻 Cisco Networking Academy & Cybersecurity | 🐍 Python Ansible | 🎵 Phonk Composer**  
+# Igor Belokurov
+
+📧 forrywork998@gmail.com  
+📞 +7 (705) 427 3029  
+🔗 [LinkedIn](https://www.linkedin.com/in/igor-belokurov-76f7434a1/)  
+🔗 [GitHub](https://github.com/Igor988563)  
 
 ---
 
-## 📜 About Me  
+## Profile  
 An ambitious 18-year-old passionate about Cybersecurity, Python, and C Sharp. He occasionally composes Phonk music and enjoys reading books on physics and Cisco networking. Constantly expanding his knowledge, he strives to grow in technology and programming, aiming to develop in network administration.
 
 ---
 
-## 🛠 Skills  
-- **Experience enhancement:** ★★★★★★  
-- **Adaptability:** ★★★★★  
-- **FL Studio:** ★★★★★  
-- **Programming Languages:** ★★★★☆  
-- **Cisco Networking:** ★★★★★  
-
----
-
-## 📚 Education  
-- **2014–2024:** Gymnasium-School №32, Astana  
+## Education  
+- **Gymnasium-School №32, Astana** *(2014 – 2024)*  
   *The basics of all subjects.*  
-- **2016–2020:** Small Step Academy, Astana  
-  *Programming languages, 3D modeling, game creation, HTML & CSS, Adobe basics.*  
-- **2021–2023:** Professional Step Academy, Astana  
-  - Python: Basic/Professional, Ansible Automation  
-  - Networks: Cisco IT Essentials, CCNAv1, CCNAv2, CCNAv3, Network Security  
-- **2026 (Expected):** Astana IT University College  
-  *Specialty: Database Administrator*  
+- **Small Step Academy, Astana** *(2016 – 2020)*  
+  *Programming languages, 3D modeling, Game creation, HTML, CSS, Adobe basics.*  
+- **Professional Step Academy, Astana** *(2021 – 2023)*  
+  *Python PCAP, Ansible, Cisco Networks (IT Essentials, CCNA1, CCNA2, CCNA3), Network Security.*  
+- **Astana IT University College** *(2024 – 2026, Expected)*  
+  *Specialty: Database Administrator.*  
 
 ---
 
-## 🏆 Awards  
-- **2016:** Second place in swimming competitions  
-- **2024:** First place in the marching step competition  
-- **2024:** Participation in the College Computer Science Olympiad  
+## Experience  
+**Professional Step Academy (2021 – 2025) – Astana, Kazakhstan**  
+By instructor *Svetlana Lapenkov:*  
+- IT Essentials: Basic Network Administration.  
+- CCNA1, CCNA2, CCNA3: Working with Cisco equipment (Switch L2-3, Router, Cisco ASA).  
+- PCAP, Ansible: Automating the configuration of Ansible network equipment.  
 
 ---
 
-## 🏋️ Sports  
-- **2013–2014:** Box  
-- **2015–2016:** Swimming  
-- **2017–2021:** Taekwondo  
-- **2021–2025:** Workout  
+## Projects  
+### **Cisco Ansible Project**  
+🔗 [GitHub](https://github.com/Igor/Ansible_project/)  
+*Automation of Cisco network equipment configuration*  
+- Building a network in GNS3.  
+- Configuring network and terminal devices.  
+- Protecting traffic using Cisco ASA.  
+- Configuring servers (DHCP, NTP, AAA).  
+
+### **PCAP Projects**  
+🔗 [GitHub](https://github.com/igor988563/PCAP_projects/)  
+- Python basics, Functions, Modules.  
+- Data Structures, Object-Oriented Programming (OOP).  
+- Exception Handling, File Handling.  
+- PEP 8 coding standards.  
+
+### **Personal Website**  
+🔗 [Portfolio](https://litl.ly/igor998)  
+- About me, Hobbies, Sports, Skills, Projects.  
 
 ---
 
-## 💼 Experience  
-- **2021:** Professional Step Academy — IT Essentials  
-  *Basic network administration.*  
-- **2022:** Professional Step Academy — CCNAv1, CCNAv2, CCNAv3  
-  *Working with Cisco equipment rack: Switchv2-3, Router, ASA*  
-- **2023:** Professional Step Academy — PCAP, Ansible  
-  *Automating the configuration of Ansible network equipment.*  
+## Languages  
+- **Russian:** Native  
+- **Kazakh:** Beginner  
+- **English:** Elementary  
+- **French:** Beginner  
 
 ---
 
-## ✨ Other Information  
-Igor approaches the world of technology with the curiosity of a researcher, combining a strong drive for self-improvement with a deep passion for learning. He takes pride in his knowledge of cybersecurity, Python, and C#, and confidently navigates complex topics like physics and networking. Igor values structure and precision in his work, often sharing his insights with those around him. While striving for excellence, he maintains a balanced and open-minded approach, always eager to help others improve and grow.  
+## Programming Skills  
+- **Languages:** C Sharp, Python  
+- **Libraries:** Ansible, Netmiko, Paramiko, Math, Datetime, Yaml, XML, IPAddress  
 
 ---
 
-## 📫 Contact
-- **LinkedIn:** [linkedin.com/in/igor](https://linkedin.com/in/igor)  
-- **GitHub:** [github.com/igor](https://github.com/igor)  
+## Awards  
+🏆 **STEP Academy Olympiads (2017 – 2021)**  
+- Olympiads, Contests, Events, Competitions, Hackathons.  
+
+🏆 **College Competitions and Olympiads (2024)**  
+- First place in the city marching step competition.  
+- Participant in the college programming Olympiad.  
