@@ -2,8 +2,8 @@
 
 📧 formywork998@gmail.com  
 📞 +7 (705) 427 3029  
-🔗 [LinkedIn](https://www.linkedin.com/in/igor-belokurov-76f7434a1/)  
-🔗 [GitHub](https://github.com/Igor988563)  
+🔗 [LinkedIn](https://www.linkedin.com/in/igor-belokurov-76475434b/)  
+🔗 [GitHub](https://github.com/Igor9985563)  
 
 ---
 
@@ -35,7 +35,7 @@ By instructor *Svetlana Lapenkov:*
 
 ## Projects  
 ### **Cisco Ansible Project**  
-🔗 [GitHub](https://github.com/Igor/Ansible_project/)  
+🔗 [GitHub](https://github.com/Igor9985563/Ansible_Configurations_GNS3)  
 *Automation of Cisco network equipment configuration*  
 - Building a network in GNS3.  
 - Configuring network and terminal devices.  
@@ -43,14 +43,14 @@ By instructor *Svetlana Lapenkov:*
 - Configuring servers (DHCP, NTP, AAA).  
 
 ### **PCAP Projects**  
-🔗 [GitHub](https://github.com/igor988563/PCAP_projects/)  
+🔗 [GitHub](https://github.com/Igor9985563/PCAP_Projects)  
 - Python basics, Functions, Modules.  
 - Data Structures, Object-Oriented Programming (OOP).  
 - Exception Handling, File Handling.  
 - PEP 8 coding standards.  
 
 ### **Personal Website**  
-🔗 [Portfolio](https://litl.ly/igor998)  
+🔗 [Portfolio](https://litt.ly/igor998)  
 - About me, Hobbies, Sports, Skills, Projects.  
 
 ---
