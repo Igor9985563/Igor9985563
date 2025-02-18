@@ -1,5 +1,5 @@
 # 👋 Igor's GitHub Profile  
-**💻 Cybersecurity | 🐍 Python & C# Developer | 🎨 Blender 3D Artist | 🎵 Phonk Composer**  
+**💻 Cisco Networking Academy & Cybersecurity | 🐍 Python Ansible | 🎵 Phonk Composer**  
 
 ---
 
