@@ -1,6 +1,6 @@
 # Igor Belokurov
 
-📧 forrywork998@gmail.com  
+📧 formywork998@gmail.com  
 📞 +7 (705) 427 3029  
 🔗 [LinkedIn](https://www.linkedin.com/in/igor-belokurov-76f7434a1/)  
 🔗 [GitHub](https://github.com/Igor988563)  
